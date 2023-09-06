@@ -7,4 +7,7 @@ for i in range(len(array)):
     newArray.append(word)
 
 print(newArray)
+
+for i in range(3):
+    print("I LOVE YOU")
     
